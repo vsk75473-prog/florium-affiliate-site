@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://florium.ua/sitemap.xml
+Sitemap: https://vsk75473-prog.github.io/florium-affiliate-site/sitemap.xml
