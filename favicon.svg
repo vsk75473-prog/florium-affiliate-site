@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">Florium.ua</title>
+  <desc id="desc">Стилизованный лист в изумрудном круге</desc>
+  <rect width="64" height="64" rx="16" fill="#087f68"/>
+  <path d="M16 38c0-13 10-22 28-24-1 17-8 28-22 28-2 0-4-.2-6-.6Z" fill="#fff"/>
+  <path d="M17 50c7-13 14-22 25-31" fill="none" stroke="#087f68" stroke-linecap="round" stroke-width="3"/>
+  <path d="M17 50c-1-8-5-13-11-16" fill="none" stroke="#bfe8c8" stroke-linecap="round" stroke-width="3"/>
+</svg>
